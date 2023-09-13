@@ -6,7 +6,9 @@ slug: /
 
 ## Co je DNS?
 
-DNS je zkratka pro "Domain name system" a jeho účelem je převádět názvy webových stránek na IP adresy. Pokaždé, když přejdete na webovou stránku, odešle prohlížeč DNS dotaz na server DNS, aby zjistil IP adresu webové stránky. A běžný DNS řešitel jednoduše vrátí IP adresu požadované domény.
+<iframe width="560" height="315" class="youtube-video" src="https://www.youtube-nocookie.com/embed/MSp7Ki03-LI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+DNS stands for "Domain Name System", and its purpose is to convert website names into IP addresses. Pokaždé, když přejdete na webovou stránku, odešle prohlížeč DNS dotaz na server DNS, aby zjistil IP adresu webové stránky. A běžný DNS řešitel jednoduše vrátí IP adresu požadované domény.
 
 :::note
 
@@ -32,7 +34,7 @@ AdGuard DNS je jednou z nejvíce, na soukromí orientovaných služeb DNS na trh
 
 Přibližně 75 % datového provozu AdGuard DNS je šifrováno. Tím se vlastně DNS servery blokující obsah liší od ostatních. Pokud se podíváte na statistiky CloudFlare nebo Quad9, zjistíte, že šifrované DNS tvoří jen malý podíl všech dotazů.
 
-AdGuard DNS existuje ve dvou hlavních formách: [veřejný AdGuard DNS](public-dns/overview.md) a [soukromý AdGuard DNS](private-dns/overview.md). Obě tyto služby nevyžadují instalaci žádné aplikace. Snadno se nastavují a používají a poskytují uživatelům minimum funkcí potřebných k blokování reklam, slídičů, škodlivých webových stránek a obsahu pro dospělé (pokud je vyžadováno). Neexistují žádná omezení, s jakými zařízeními je lze používat.
+AdGuard DNS exists in two main forms: [public AdGuard DNS](public-dns/overview) and [private AdGuard DNS](private-dns/overview). Obě tyto služby nevyžadují instalaci žádné aplikace. Snadno se nastavují a používají a poskytují uživatelům minimum funkcí potřebných k blokování reklam, slídičů, škodlivých webových stránek a obsahu pro dospělé (pokud je vyžadováno). Neexistují žádná omezení, s jakými zařízeními je lze používat.
 
 Navzdory mnoha podobnostem jsou soukromý AdGuard DNS a veřejný AdGuard DNS dvě různé služby. Hlavní rozdíl spočívá v tom, že soukromý AdGuard DNS si můžete přizpůsobit, zatímco veřejný AdGuard DNS nikoli.
 

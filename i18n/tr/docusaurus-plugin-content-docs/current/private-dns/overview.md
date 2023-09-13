@@ -15,7 +15,9 @@ Hızlı bağlantı: [AdGuard DNS'i dene](https://agrd.io/download-dns)
 
 ## Özel AdGuard DNS nedir?
 
-Private AdGuard DNS is a DNS server that, in addition to benefits of a public DNS server (such as traffic encryption and domain blocklists), provides features like flexible customization, DNS statistics and parental control and is easily managed through a handy dashboard.
+<iframe width="560" height="315" class="youtube-video" src="https://www.youtube-nocookie.com/embed/ME3_Ms9LO8M" title="YouTube video oynatıcı" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Özel AdGuard DNS, genel bir DNS sunucusunun avantajlarına (trafik şifreleme ve alan adı engel listeleri gibi) ek olarak esnek özelleştirme, DNS istatistikleri ve ebeveyn denetimi gibi özellikler sunar ve kullanışlı bir kontrol paneli aracılığıyla kolayca yönetilir.
 
 ## Özel AdGuard DNS'e neden ihtiyacınız var
 
@@ -50,6 +52,7 @@ Genel AdGuard DNS ve Özel AdGuard DNS sunucularında bulunan özelliklerin basi
 - Linux
 - Yönlendiriciler
 - Oyun konsolları
+- Akıllı TV'ler
 
 :::
 
@@ -85,7 +88,7 @@ Binlerce kurala sahip önceden yüklenmiş *Engel listelerinin* yeterli olmadı�
 
 ### İstatistikler
 
-"İstatistikler" sekmesinde, Özel AdGuard DNS'inize bağlı cihazlar tarafından yapılan DNS sorgularıyla ilgili tüm özet istatistikleri görebilirsiniz. İsteklerin toplam sayısını ve coğrafyasını, engellenen isteklerin sayısını, isteklerin yönlendirildiği şirketlerin listesini, istek türlerini ve başlıca istenen alan adlarını gösterir.
+*İstatistikler* sekmesinde Özel AdGuard DNS'inize bağlı cihazlar tarafından yapılan DNS sorgularına ilişkin tüm özet istatistikleri görebilirsiniz. İsteklerin toplam sayısını ve coğrafyasını, engellenen isteklerin sayısını, isteklerin yönlendirildiği şirketlerin listesini, istek türlerini ve başlıca istenen alan adlarını gösterir.
 
 ![Özel AdGuard DNS ana sayfa istatistikler](https://cdn.adtidy.org/public/Adguard/Blog/private_adguard_dns/statistics.png)
 
